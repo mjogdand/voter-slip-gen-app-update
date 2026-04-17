@@ -7,8 +7,8 @@ Welcome to the official release repository for the **Voter Slip Generator**. Thi
 ## 🚀 How to Download & Install
 
 ### 1. Download the Installer
-Navigate to the [Releases](https://github.com/mjogdand/voter-slip-generator-app/releases) section of this repository and download the latest setup file:
-*   **File Name:** `VoterSlipGenerator_Setup_2.1.0.exe`
+Navigate to the [Releases](https://github.com/mjogdand/voter-slip-gen-app-update/releases) section of this repository and download the latest setup file:
+*   **File Name:** `VoterSlipGenerator_Setup_x.x.x.exe`
 *   **Platform:** Windows 10/11 (x64)
 
 ### 2. Installation Steps
